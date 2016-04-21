@@ -1,0 +1,12 @@
+GET: https://downloads.openwrt.org/chaos_calmer/15.05/ar71xx/generic/packages/base/Packages.gz
+     status=200, content-type="application/octet-stream", content-length=121975
+GET: https://downloads.openwrt.org/chaos_calmer/15.05/ar71xx/generic/packages/luci/Packages.gz
+     status=200, content-type="application/octet-stream", content-length=90639
+GET: https://downloads.openwrt.org/chaos_calmer/15.05/ar71xx/generic/packages/management/Packages.gz
+     status=200, content-type="application/octet-stream", content-length=1822
+GET: https://downloads.openwrt.org/chaos_calmer/15.05/ar71xx/generic/packages/packages/Packages.gz
+     status=200, content-type="application/octet-stream", content-length=247032
+GET: https://downloads.openwrt.org/chaos_calmer/15.05/ar71xx/generic/packages/routing/Packages.gz
+     status=200, content-type="application/octet-stream", content-length=12005
+GET: https://downloads.openwrt.org/chaos_calmer/15.05/ar71xx/generic/packages/telephony/Packages.gz
+     status=200, content-type="application/octet-stream", content-length=64313
